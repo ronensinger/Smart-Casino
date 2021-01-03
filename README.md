@@ -1,3 +1,5 @@
+Copyright Ronen Singer, All Rights Reserved
+
 # Showcase-Casino
 A semi-functional Bitcoin Casino, where people can invest in the house.
 Made by Ronen Singer, from scratch.
